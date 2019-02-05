@@ -4,5 +4,5 @@
 #' It finds the Koppen-Geiger climate class for one location
 #'
 #' @docType package
-#' @name foo
-NULL
+#' @name KoppenClassifyR 
+#' NNULL

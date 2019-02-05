@@ -1,8 +1,8 @@
 Package: KoppenClassifyR
-Title: What the Package Does (one line, title case)
+Title: The package computes the Koppen-Geiger climate classification
 Version: 0.0.0.9000
-Authors@R: person("First", "Last", email = "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
+Authors@R: person("Soulivan", "Thao", email = "sthao@lsce.ipsl.fr", role = c("aut", "cre"))
+Description: The package computes the Koppen-Geiger climate classification for one location.
 Depends: R (>= 3.4.4)
 License: What license is it under?
 Encoding: UTF-8
